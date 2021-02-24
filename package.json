@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giacompignoni/basic-webpack-scaffold"
+    "url": "git+https://github.com/GiacomoPignoni/basic-webpack-scaffold"
   },
   "author": "Giacomo Pignoni",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/giacompignoni/basic-webpack-scaffold/issues"
+    "url": "https://github.com/GiacomoPignoni/basic-webpack-scaffold/issues"
   },
-  "homepage": "https://github.com/giacompignoni/basic-webpack-scaffold#readme",
+  "homepage": "https://github.com/GiacomoPignoni/basic-webpack-scaffold#readme",
   "devDependencies": {
     "@babel/core": "^7.4.0",
     "@babel/preset-env": "^7.4.2",
